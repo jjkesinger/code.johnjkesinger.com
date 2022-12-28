@@ -1,2 +1,2 @@
-# code.johnjkesinger.com
-code.johnjkesinger.com
+# johnjkesinger.com
+johnjkesinger.com
